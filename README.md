@@ -1,5 +1,5 @@
 <!-- Your title -->
-### Hi there 👋, I'm MANZI Mike
+### Hi there 👋, I'm Gisa Kaze Fredson
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
@@ -13,11 +13,17 @@ You can use the website to generate badges: https://shields.io/
 <!-- Talking about you -->
 **About Me:**
 
+- Tech enthusiast 💯
+- UI & UX Designer 🔖
+- Dynamic web developer 💻
 - I’m currently a student at Rwanda Coding Academy.
-- I’m looking to collaborate on anything!
-- Ask me about anything, I am happy to help.
-- How to reach me: __manzimike378@gmail.com__
+- Reach me out via email __fredson.coder@gmail.com__
 
+**I am also available on social platforms
+
+- Twitter: __@GisaKaze
+
+Know more about me: https://fredson.netlify.app/
 ---
 
 **Languages and Tools:**
@@ -25,19 +31,6 @@ You can use the website to generate badges: https://shields.io/
 <p>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></code>
-  <!--<code><img width="15%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>-->
-  <!--<code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>-->
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-    <!--<code><img width="15%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code>-->
-  <br />
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>  
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-  <br />
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-ar21.svg"></code>
 </p>
