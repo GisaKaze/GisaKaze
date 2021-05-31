@@ -19,9 +19,10 @@ You can use the website to generate badges: https://shields.io/
 - I’m currently a student at Rwanda Coding Academy.
 - Reach me out via email __fredson.coder@gmail.com__
 
-I am also available on social platforms
+**I am also available on social platforms**
 
-- Twitter: __@GisaKaze
+- Twitter: __@GisaKaze__
+- Dribbble: __GisaKFredson__
 
 Know more about me: https://fredson.netlify.app/
 ---
