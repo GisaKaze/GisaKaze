@@ -25,13 +25,3 @@ You can use the website to generate badges: https://shields.io/
 - Twitter: __@GisaKaze__
 - Dribbble: __GisaKFredson__
 
----
-
-**Languages and Tools:**
-
-<p>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-</p>
