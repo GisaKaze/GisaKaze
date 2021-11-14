@@ -13,7 +13,7 @@ Software engineer based in Rwanda, Experienced in building exceptional websites,
 
 Let's be friends! Connect with me on my socials below. Feel free to reach me through DMs. 
 
-Know more about me on: 
+Know more about me on: https://gisakaze.ml/
 
 📧 Reach me out!
 
