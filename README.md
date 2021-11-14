@@ -20,7 +20,6 @@ Know more about me on: https://gisakaze.ml/
 [![Twitter Badge](https://img.shields.io/badge/-@GisaKaze-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/GisaKaze)](https://twitter.com/GisaKaze) [![Linkedin Badge](https://img.shields.io/badge/-Fredson-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](www.linkedin.com/in/gisa-kaze-fredson) [![Mail Badge](https://img.shields.io/badge/-@GisaKaze-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/gisakaze/) [![Mail Badge](https://img.shields.io/badge/-GisaKaze-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:fredson.coder@gmail.com)
 
 ![](https://github-readme-stats.vercel.app/api?username=GisaKaze&show_icons=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GisaKaze&langs_count=10&layout=compact&count_private=true)
 
 #### Top Technologies & Tools
 
