@@ -1,5 +1,5 @@
 <!-- Your title -->
-### Hi there 👋, I'm Gisa Kaze Fredson
+### Hi there 👋, I'm Fredson Gisa Kaze
 
 <!-- Talking about you
 **About Me:**
